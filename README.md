@@ -1,16 +1,22 @@
-## Hi there 👋
+👋 Hello there! I'm Aditi Jadhav
 
-<!--
-**aditi00123/aditi00123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ B.Tech in Cloud Technology & Information Security  
+Passionate about AWS, Cloud Projects, and Cybersecurity  
+I love building solutions and learning new technologies  
 
-Here are some ideas to get you started:
+ Projects
+- Resume Builder App* – Built using AWS Lambda, S3, SES  
+- AWS Projects Using AWS Services
+- EKYC Blockchain
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#Tech Stack
+- Languages: Java, Python, HTML/CSS  
+- Cloud: AWS (Lambda, S3, SES, API Gateway)  
+- Tools: Git, Linux, Postman, Canva
+
+ Currently Learning
+- Docker, Kubernetes, CI/CD pipelines
+
+ Let's connect!
+- [LinkedIn](https://www.linkedin.com/in/aditi-jadhav-547a34236/)
+
