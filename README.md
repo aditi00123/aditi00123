@@ -5,11 +5,11 @@ Passionate about AWS, Cloud Projects, and Cybersecurity
 I love building solutions and learning new technologies  
 
  Projects
-- Resume Builder App* – Built using AWS Lambda, S3, SES  
+- Resume Builder App – Built using AWS Lambda, S3, SES  
 - AWS Projects Using AWS Services
 - EKYC Blockchain
 
-#Tech Stack
+Tech Stack
 - Languages: Java, Python, HTML/CSS  
 - Cloud: AWS (Lambda, S3, SES, API Gateway)  
 - Tools: Git, Linux, Postman, Canva
